@@ -1,3 +1,5 @@
+# Day 2: Find maximum and minimum in an array
+
 """
 Day 2: Find Maximum and Minimum in an Array
 
@@ -30,3 +32,4 @@ arr = [3, 1, 5, 2, 4]
 max_value, min_value = find_max_min(arr)
 print("Max:", max_value)
 print("Min:", min_value)
+
