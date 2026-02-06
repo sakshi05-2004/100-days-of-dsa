@@ -1,3 +1,5 @@
+# Day 1: Reverse an array
+
 """
 Day 1: Reverse an Array
 Problem:
@@ -28,3 +30,4 @@ def reverse_array(arr):
 # Testing the function
 arr = [1, 2, 3, 4, 5]
 print(reverse_array(arr))
+
