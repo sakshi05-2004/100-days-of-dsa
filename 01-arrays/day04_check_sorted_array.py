@@ -1,3 +1,4 @@
+# Day 4: Check if an array is sorted
 """
 Day 4: Check if an Array is Sorted
 
@@ -27,3 +28,4 @@ arr2 = [1, 3, 2, 4]
 
 print("Array 1 sorted?", is_sorted(arr1))
 print("Array 2 sorted?", is_sorted(arr2))
+
