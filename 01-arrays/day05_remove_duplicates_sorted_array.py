@@ -1,3 +1,4 @@
+# Day 5: Remove duplicates from sorted array
 """
 Day 5: Remove Duplicates from a Sorted Array
 
@@ -33,4 +34,5 @@ k = remove_duplicates(arr)
 
 print("Unique count:", k)
 print("Array after removing duplicates:", arr[:k])
+
 
