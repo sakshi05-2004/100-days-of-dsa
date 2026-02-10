@@ -1,3 +1,5 @@
+# Day 6: Rotate array by k positions
+
 """
 Day 6: Rotate an Array by K Positions (Right Rotation)
 
@@ -35,3 +37,4 @@ k = 2
 
 rotate_array(arr, k)
 print("Rotated array:", arr)
+
