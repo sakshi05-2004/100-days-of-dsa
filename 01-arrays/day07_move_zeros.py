@@ -1,7 +1,3 @@
-# Approach:
-# - Maintain pointer 'i' for next non-zero position
-# - Traverse array with pointer 'j'
-# - Swap only when needed
 
 """
 Day 7: Move All Zeros to the End
@@ -32,4 +28,5 @@ arr = [0, 1, 0, 3, 12]
 move_zeros(arr)
 
 print("After moving zeros:", arr)
+
 
