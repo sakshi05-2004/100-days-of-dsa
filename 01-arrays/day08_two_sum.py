@@ -31,3 +31,6 @@ nums = [2, 7, 11, 15]
 target = 9
 
 print("Indices:", two_sum(nums, target))
+
+#done
+
