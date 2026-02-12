@@ -1,3 +1,4 @@
+# Day 8: Two Sum using hash map
 """
 Day 8: Two Sum
 
@@ -31,6 +32,7 @@ nums = [2, 7, 11, 15]
 target = 9
 
 print("Indices:", two_sum(nums, target))
+
 
 
 
