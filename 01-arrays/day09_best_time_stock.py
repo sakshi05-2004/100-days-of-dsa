@@ -33,3 +33,6 @@ def max_profit(prices):
 # Test
 prices = [7, 1, 5, 3, 6, 4]
 print("Maximum Profit:", max_profit(prices))
+
+# return
+
