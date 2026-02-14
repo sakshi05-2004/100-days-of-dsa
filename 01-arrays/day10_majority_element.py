@@ -1,3 +1,4 @@
+
 """
 Day 10: Majority Element
 
@@ -31,3 +32,6 @@ def majority_element(nums):
 # Test
 nums = [2, 2, 1, 1, 1, 2, 2]
 print("Majority Element:", majority_element(nums))
+
+# return
+
