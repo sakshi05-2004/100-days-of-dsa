@@ -33,6 +33,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 8 – Two Sum (Hash Map)  
 - Day 9 – Best Time to Buy and Sell Stock  
 - Day 10 – Majority Element (Boyer-Moore Voting Algorithm)
+- Day 11 – Maximum Subarray (Kadane’s Algorithm)
 
 ---
 
