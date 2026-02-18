@@ -35,6 +35,10 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 10 – Majority Element (Boyer-Moore Voting Algorithm)
 - Day 11 – Maximum Subarray (Kadane’s Algorithm)
 - Day 12 – Merge Two Sorted Arrays (Two-Pointer Technique)
+  
+  ### 🔹 Strings
+
+- Day 13 – Reverse a String
 
 ---
 
