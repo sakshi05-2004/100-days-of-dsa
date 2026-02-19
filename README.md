@@ -39,6 +39,8 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 ### 🔹 Strings
 
 - Day 13 – Reverse a String
+- Day 14 – Check if a String is Palindrome
+
 
 ---
 
