@@ -30,5 +30,5 @@ def is_palindrome(s):
 print(is_palindrome("madam"))
 print(is_palindrome("hello"))
 
-###
+
 
