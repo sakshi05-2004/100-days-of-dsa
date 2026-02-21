@@ -41,6 +41,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 13 – Reverse a String
 - Day 14 – Check if a String is Palindrome
 - Day 15 – Valid Anagram (Hash Map)
+- Day 16 – First Non-Repeating Character
 
 
 ---
