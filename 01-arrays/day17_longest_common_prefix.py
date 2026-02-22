@@ -34,4 +34,4 @@ print(longest_common_prefix(["flower", "flow", "flight"]))
 
 print(longest_common_prefix(["dog", "racecar", "car"]))
 
-# return
+
