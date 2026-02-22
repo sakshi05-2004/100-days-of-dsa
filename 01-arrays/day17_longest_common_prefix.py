@@ -1,3 +1,5 @@
+# Day 17: Longest common prefix using vertical scanning
+
 """
 Day 17: Longest Common Prefix
 
@@ -33,5 +35,6 @@ def longest_common_prefix(strs):
 print(longest_common_prefix(["flower", "flow", "flight"]))
 
 print(longest_common_prefix(["dog", "racecar", "car"]))
+
 
 
