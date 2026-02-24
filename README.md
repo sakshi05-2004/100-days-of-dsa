@@ -44,6 +44,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 16 – First Non-Repeating Character
 - Day 17 – Longest Common Prefix
 - Day 18 – Remove Duplicates from String
+- Day 19 – Valid Parentheses (Stack)
 
 
 ---
