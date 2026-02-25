@@ -48,7 +48,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 20 – Longest Substring Without Repeating Characters (Sliding Window)
 
 
----
+----
 
 ## 🛠 Tech Stack
 - Python
