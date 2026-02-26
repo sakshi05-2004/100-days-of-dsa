@@ -47,8 +47,11 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 19 – Valid Parentheses (Stack)
 - Day 20 – Longest Substring Without Repeating Characters (Sliding Window)
 
+### 🔹 Searching & Sorting
 
-----
+- Day 21 – Linear Search
+
+---
 
 ## 🛠 Tech Stack
 - Python
