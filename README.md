@@ -50,6 +50,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 ### 🔹 Searching & Sorting
 
 - Day 21 – Linear Search
+- Day 22 – Binary Search
 
 ---
 
