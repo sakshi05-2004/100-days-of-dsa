@@ -52,7 +52,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 21 – Linear Search
 - Day 22 – Binary Search
 
-----
+-----
 
 ## 🛠 Tech Stack
 - Python
