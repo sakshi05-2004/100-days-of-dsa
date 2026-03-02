@@ -55,7 +55,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 24 – Bubble Sort
 - Day 25 – Selection Sort
   
------
+----
 
 ## 🛠 Tech Stack
 - Python
