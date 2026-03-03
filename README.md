@@ -54,6 +54,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 23 – First and Last Occurrence (Binary Search Variation)
 - Day 24 – Bubble Sort
 - Day 25 – Selection Sort
+- Day 26 – Insertion Sort
   
 ----
 
