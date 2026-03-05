@@ -56,6 +56,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 25 – Selection Sort
 - Day 26 – Insertion Sort
 - Day 27 – Merge Sort
+- Day 28 – Quick Sort
   
 ----
 
