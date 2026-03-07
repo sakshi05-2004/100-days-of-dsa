@@ -58,6 +58,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 27 – Merge Sort
 - Day 28 – Quick Sort
 - Day 29 – Count Occurrences in Sorted Array
+- Day 30 – Square Root using Binary Search
   
 ----
 
@@ -65,7 +66,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Python
 - Git & GitHub
 
-----
+-----
 
 ## 🚀 Why This Repository?
 
