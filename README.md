@@ -59,6 +59,10 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 28 – Quick Sort
 - Day 29 – Count Occurrences in Sorted Array
 - Day 30 – Square Root using Binary Search
+
+### 🔹 Recursion
+
+- Day 31 – Factorial using Recursion
   
 ----
 
