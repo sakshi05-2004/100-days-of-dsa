@@ -63,6 +63,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 ### 🔹 Recursion
 
 - Day 31 – Factorial using Recursion
+- Day 32 – Fibonacci using Recursion
   
 ----
 
