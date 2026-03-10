@@ -10,7 +10,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Build strong fundamentals for interviews
 - Maintain consistency
 
-----
+-----
 
 ## 📂 Folder Structure
 
