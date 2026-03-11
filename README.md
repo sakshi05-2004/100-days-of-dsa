@@ -65,7 +65,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 31 – Factorial using Recursion
 - Day 32 – Fibonacci using Recursion
 - Day 33 – Power of a Number using Recursion
-  
+- Day 34 – Reverse Array using Recursion
 ----
 
 ## 🛠 Tech Stack
