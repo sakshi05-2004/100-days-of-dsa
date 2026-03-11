@@ -2,7 +2,7 @@
 
 This repository contains my daily practice of **Data Structures and Algorithms** using Python.
 
-----
+---
 
 ## 🎯 Goal
 - Practice 1 DSA problem daily
