@@ -66,7 +66,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 32 – Fibonacci using Recursion
 - Day 33 – Power of a Number using Recursion
 - Day 34 – Reverse Array using Recursion
-- - Day 35 – Palindrome Check using Recursion
+- Day 35 – Palindrome Check using Recursion
 ----
 
 ## 🛠 Tech Stack
