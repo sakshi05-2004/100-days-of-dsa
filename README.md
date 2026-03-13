@@ -68,7 +68,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 34 – Reverse Array using Recursion
 - Day 35 – Palindrome Check using Recursion
 
-  ### 🔹 Linked List
+### 🔹 Linked List
   
 - Day 36 – Create Linked List
   
