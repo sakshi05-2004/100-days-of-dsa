@@ -71,6 +71,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 ### 🔹 Linked List
   
 - Day 36 – Create Linked List
+- Day 37 – Insert Node at Beginni
   
 ----
 
