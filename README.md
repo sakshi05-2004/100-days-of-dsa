@@ -73,7 +73,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 36 – Create Linked List
 - Day 37 – Insert Node at Beginning
 - Day 38 – Insert Node at End
-- Day 39 – Delete Node from Linked Lis
+- Day 39 – Delete Node from Linked List
   
 ----
 
