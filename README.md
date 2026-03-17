@@ -74,6 +74,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 37 – Insert Node at Beginning
 - Day 38 – Insert Node at End
 - Day 39 – Delete Node from Linked List
+- Day 40 – Reverse Linked
   
 ----
 
