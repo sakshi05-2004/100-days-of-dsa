@@ -75,7 +75,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 38 – Insert Node at End
 - Day 39 – Delete Node from Linked List
 - Day 40 – Reverse Linked List
-- Day 41 – Find Middle of Linked List (Fast & Slow Po)
+- Day 41 – Find Middle of Linked List (Fast & Slow Poin)
   
 ----
 
