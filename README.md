@@ -76,7 +76,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 39 – Delete Node from Linked List
 - Day 40 – Reverse Linked List
 - Day 41 – Find Middle of Linked List (Fast & Slow Pointer)
-- Day 42 – Detect Loop in Linked List (Floyd’s)
+- Day 42 – Detect Loop in Linked List (Floyd’s Algo)
   
 ----
 
