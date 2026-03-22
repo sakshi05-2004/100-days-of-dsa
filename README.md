@@ -79,7 +79,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 42 – Detect Loop in Linked List (Floyd’s Algorithm)
 - Day 43 – Remove Loop from Linked List
 - Day 44 – Merge Two Sorted Linked Lists
-- - Day 45 – Palindrome Linked List
+- Day 45 – Palindrome Linked 
   
 ----
 
