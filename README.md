@@ -83,7 +83,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 
 ### 🔹 Stack & Queue
 
-- Day 46 – Stack 
+- Day 46 – Stack Implemen
   
 ----
 
