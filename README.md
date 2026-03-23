@@ -82,6 +82,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 45 – Palindrome Linked List
 
 ### 🔹 Stack & Queue
+
 - Day 46 – Stack Implementation
   
 ----
