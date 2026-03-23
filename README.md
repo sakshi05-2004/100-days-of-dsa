@@ -80,6 +80,9 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 43 – Remove Loop from Linked List
 - Day 44 – Merge Two Sorted Linked Lists
 - Day 45 – Palindrome Linked List
+
+### 🔹 Stack & Queue
+- Day 46 – Stack Implementation
   
 ----
 
