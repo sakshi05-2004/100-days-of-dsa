@@ -86,7 +86,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 46 – Stack Implementation
 - Day 47 – Queue Implementation
   
------
+----
 
 ## 🛠 Tech Stack
 - Python
