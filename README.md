@@ -84,7 +84,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 ### 🔹 Stack & Queue
 
 - Day 46 – Stack Implementation
-- - Day 47 – Queue Implementation
+- Day 47 – Queue Implementation..
   
 -----
 
