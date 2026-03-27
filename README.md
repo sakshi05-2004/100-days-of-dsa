@@ -87,7 +87,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 47 – Queue Implementation
 - Day 48 – Valid Parentheses (Stack)
 - Day 49 – Next Greater Element (Stack)
-- Day 50 – Stack using Queue.
+- Day 50 – Stack using Queue
   
 ----
 
