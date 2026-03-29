@@ -89,7 +89,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 49 – Next Greater Element (Stack)
 - Day 50 – Stack using Queue
 - Day 51 – Queue using Stack
-- Day 52 – Reverse Stack (Recursion)..
+- Day 52 – Reverse Stack (Recursion).
 
   
 ----
