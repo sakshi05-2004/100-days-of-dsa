@@ -91,7 +91,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 51 – Queue using Stack
 - Day 52 – Reverse Stack (Recursion)
 - Day 53 – Min Stack
-- Day 54 – Circular Queue.
+- Day 54 – Circular Queue
 
 ----
 
