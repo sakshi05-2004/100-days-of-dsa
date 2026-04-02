@@ -96,6 +96,8 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 
 ### 🔹 Hashing
 
+- Day 56 – Frequency Count..
+
 ----
 
 ## 🛠 Tech Stack
