@@ -94,6 +94,8 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 54 – Circular Queue
 - Day 55 – Sliding Window Maximum (Deque)
 
+### 🔹 Hashing
+
 ----
 
 ## 🛠 Tech Stack
