@@ -98,7 +98,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 
 - Day 56 – Frequency Count
 - Day 57 – First Repeating Element
-- Day 58 – Subarray with Zero Sum...
+- Day 58 – Subarray with Zero Sum..
 
 ----
 
