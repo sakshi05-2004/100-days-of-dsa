@@ -99,7 +99,8 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 56 – Frequency Count
 - Day 57 – First Repeating Element
 - Day 58 – Subarray with Zero Sum
-- Day 59 – Longest Subarray with Sum K.
+- Day 59 – Longest Subarray with Sum K
+- - Day 60 – Pair with Given Sum (Two Sum)
 
 ----
 
