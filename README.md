@@ -101,7 +101,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 58 – Subarray with Zero Sum
 - Day 59 – Longest Subarray with Sum K
 - Day 60 – Pair with Given Sum (Two Sum)
-- - Day 61 – Intersection of Two Arrays
+- Day 61 – Intersection of Two Arrays..
 
 ----
 
