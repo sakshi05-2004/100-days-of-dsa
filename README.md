@@ -103,7 +103,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 60 – Pair with Given Sum (Two Sum)
 - Day 61 – Intersection of Two Arrays
 - Day 62 – Union of Two Arrays
-- Day 63 – Count Distinct Elements...
+- Day 63 – Count Distinct Elements..
 
 ----
 
