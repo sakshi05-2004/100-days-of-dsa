@@ -104,7 +104,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 61 – Intersection of Two Arrays
 - Day 62 – Union of Two Arrays
 - Day 63 – Count Distinct Elements
-- - Day 64 – Longest Consecutive Sequence...
+- - Day 64 – Longest Consecutive Sequence..
 
 ----
 
