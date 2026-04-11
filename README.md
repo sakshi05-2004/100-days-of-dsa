@@ -105,7 +105,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 62 – Union of Two Arrays
 - Day 63 – Count Distinct Elements
 - Day 64 – Longest Consecutive Sequence
-- Day 65 – Group Anagrams..
+- Day 65 – Group Anagrams...
 
 ----
 
