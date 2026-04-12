@@ -106,7 +106,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 63 – Count Distinct Elements
 - Day 64 – Longest Consecutive Sequence
 - Day 65 – Group Anagrams
-- - Day 66 – Pair Sum (Two Pointers)..
+- - Day 66 – Pair Sum (Two Pointers)...
 
 ----
 
