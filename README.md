@@ -108,7 +108,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 65 – Group Anagrams
 - Day 66 – Pair Sum (Two Pointers)
 - Day 67 – Three Sum
-- - Day 68 – Trapping Rain Water
+- Day 68 – Trapping Rain Water
   - - Day 69 – Container With Most Water
 
 ----
