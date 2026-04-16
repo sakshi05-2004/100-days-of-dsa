@@ -110,7 +110,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 67 – Three Sum
 - Day 68 – Trapping Rain Water
 - Day 69 – Container With Most Water
-- Day 70 – Longest Substring Without Repeating Characters (Optimized)...
+- Day 70 – Longest Substring Without Repeating Characters (Optimized)..
 
 ----
 
