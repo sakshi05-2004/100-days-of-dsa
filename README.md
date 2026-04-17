@@ -112,6 +112,9 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 69 – Container With Most Water
 - Day 70 – Longest Substring Without Repeating Characters (Optimized)
 
+### 🔹 Trees
+- Day 71 – Binary Tree Basics...
+
 ----
 
 ## 🛠 Tech Stack
