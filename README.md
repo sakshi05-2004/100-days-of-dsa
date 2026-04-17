@@ -113,7 +113,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 70 – Longest Substring Without Repeating Characters (Optimized)
 
 ### 🔹 Trees
-- Day 71 – Binary Tree Basics..
+- Day 71 – Binary Tree Basics.
 
 ----
 
