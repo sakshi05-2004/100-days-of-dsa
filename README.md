@@ -114,7 +114,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 
 ### 🔹 Trees
 - Day 71 – Binary Tree Basics
-- - Day 72 – Inorder Traversal..
+- Day 72 – Inorder Traversal
 
 ----
 
