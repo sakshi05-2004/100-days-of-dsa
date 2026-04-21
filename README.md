@@ -117,7 +117,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 72 – Inorder Traversal
 - Day 73 – Preorder Traversal
 - Day 74 – Postorder Traversal
-- Day 75 – Level Order Traversal (BFS)...Update README with Day 75 progress
+- Day 75 – Level Order Traversal (BFS)...
 
 ----
 
