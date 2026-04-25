@@ -121,7 +121,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 76 – Height of Binary Tree
 - Day 77 – Count Leaf Nodes
 - Day 78 – Diameter of Binary Tree
-- Day 79 – Check Balanced Binary Tree...
+- Day 79 – Check Balanced Binary Tree..
 
 ----
 
