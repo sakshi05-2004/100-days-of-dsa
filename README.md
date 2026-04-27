@@ -125,7 +125,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 80 – Lowest Common Ancestor
 
 ### 🔹 BST
-- Day 81 – BST Insertion..
+- Day 81 – BST Insertion.
 
 ----
 
