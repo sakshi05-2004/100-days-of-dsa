@@ -124,6 +124,9 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 79 – Check Balanced Binary Tree
 - Day 80 – Lowest Common Ancestor
 
+### 🔹 BST
+- Day 81 – BST Insertion
+
 ----
 
 ## 🛠 Tech Stack
