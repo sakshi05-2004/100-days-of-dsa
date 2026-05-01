@@ -129,7 +129,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 82 – Search in BST
 - Day 83 – Delete Node in BST
 - Day 84 – Validate BST
-- - Day 85 – Kth Smallest Element in BST....
+- Day 85 – Kth Smallest Element in BST....
 
 ----
 
