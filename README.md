@@ -132,7 +132,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 85 – Kth Smallest Element in BST
 
 ### 🔹 Heaps
-- Day 86 – Min Heap Implementation..
+- Day 86 – Min Heap Implementation.
 
 ----
 
