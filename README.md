@@ -131,6 +131,8 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 84 – Validate BST
 - Day 85 – Kth Smallest Element in BST
 
+### 🔹 Heaps
+- Day 86 – Min Heap Implementation....
 ----
 
 ## 🛠 Tech Stack
