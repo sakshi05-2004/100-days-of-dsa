@@ -134,7 +134,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 ### 🔹 Heaps
 - Day 86 – Min Heap Implementation
 - Day 87 – K Largest Elements
-- Day 88 – Heap Sort...
+- Day 88 – Heap Sort..
 
 ----
 
