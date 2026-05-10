@@ -140,7 +140,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 
 ### 🔹 Graphs
 - Day 91 – Graph Representation
-- Day 92 – BFS Traversal...
+- Day 92 – BFS Traversal..
 
 ----
 
