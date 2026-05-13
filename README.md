@@ -143,7 +143,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 92 – BFS Traversal
 - Day 93 – DFS Traversal
 - Day 94 – Detect Cycle in Graph
-- - Day 95 – Shortest Path using BFS.
+- - Day 95 – Shortest Path using BFS
 
 ----
 
