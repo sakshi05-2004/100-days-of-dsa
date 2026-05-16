@@ -148,7 +148,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 ### 🔹 Dynamic Programming
 - Day 96 – Fibonacci using DP
 - Day 97 – Climbing Stairs
-- Day 98 – Coin Change Problem..
+- Day 98 – Coin Change Problem
 
 ----
 
