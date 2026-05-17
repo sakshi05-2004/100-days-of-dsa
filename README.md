@@ -149,7 +149,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 96 – Fibonacci using DP
 - Day 97 – Climbing Stairs
 - Day 98 – Coin Change Problem
-- Day 99 – Longest Common Subsequence (LCS).
+- Day 99 – Longest Common Subsequence (LCS)
 
 ----
 
