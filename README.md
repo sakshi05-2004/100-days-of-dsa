@@ -150,7 +150,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 97 – Climbing Stairs
 - Day 98 – Coin Change Problem
 - Day 99 – Longest Common Subsequence (LCS)
-- Day 100 – 0/1 Knapsack Problem....
+- Day 100 – 0/1 Knapsack Problem...
 
 ----
 
