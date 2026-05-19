@@ -7,10 +7,12 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 ----
 
 ## 🎯 Goal
-- Practice 1 DSA problem daily
+
+- Practice DSA consistently
 - Improve problem-solving skills
-- Build strong fundamentals for interviews
-- Maintain consistency
+- Strengthen coding fundamentals
+- Prepare for coding interviews
+- Build discipline and consistency
 
 ----
 
@@ -38,28 +40,27 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 10-heaps
 11-graphs
 12-dynamic-programming
+```
 
 ----
 
 ## ✅ Progress
 
 ### 🔹 Arrays
-
-- Day 1 – Reverse an Array  
-- Day 2 – Find Maximum and Minimum  
-- Day 3 – Second Largest Element  
-- Day 4 – Check if Array is Sorted  
-- Day 5 – Remove Duplicates (Sorted Array)  
-- Day 6 – Rotate Array by K Positions  
-- Day 7 – Move All Zeros to End  
-- Day 8 – Two Sum (Hash Map)  
-- Day 9 – Best Time to Buy and Sell Stock  
+- Day 1 – Reverse an Array
+- Day 2 – Find Maximum and Minimum
+- Day 3 – Second Largest Element
+- Day 4 – Check if Array is Sorted
+- Day 5 – Remove Duplicates (Sorted Array)
+- Day 6 – Rotate Array by K Positions
+- Day 7 – Move All Zeros to End
+- Day 8 – Two Sum (Hash Map)
+- Day 9 – Best Time to Buy and Sell Stock
 - Day 10 – Majority Element (Boyer-Moore Voting Algorithm)
 - Day 11 – Maximum Subarray (Kadane’s Algorithm)
 - Day 12 – Merge Two Sorted Arrays (Two-Pointer Technique)
 
 ### 🔹 Strings
-
 - Day 13 – Reverse a String
 - Day 14 – Check if a String is Palindrome
 - Day 15 – Valid Anagram (Hash Map)
@@ -70,10 +71,9 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 20 – Longest Substring Without Repeating Characters (Sliding Window)
 
 ### 🔹 Searching & Sorting
-
 - Day 21 – Linear Search
 - Day 22 – Binary Search
-- Day 23 – First and Last Occurrence (Binary Search Variation)
+- Day 23 – First and Last Occurrence
 - Day 24 – Bubble Sort
 - Day 25 – Selection Sort
 - Day 26 – Insertion Sort
@@ -83,46 +83,42 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 30 – Square Root using Binary Search
 
 ### 🔹 Recursion
-
 - Day 31 – Factorial using Recursion
 - Day 32 – Fibonacci using Recursion
-- Day 33 – Power of a Number using Recursion
+- Day 33 – Power of Number using Recursion
 - Day 34 – Reverse Array using Recursion
 - Day 35 – Palindrome Check using Recursion
 
 ### 🔹 Linked List
-  
 - Day 36 – Create Linked List
 - Day 37 – Insert Node at Beginning
 - Day 38 – Insert Node at End
 - Day 39 – Delete Node from Linked List
 - Day 40 – Reverse Linked List
-- Day 41 – Find Middle of Linked List (Fast & Slow Pointer)
-- Day 42 – Detect Loop in Linked List (Floyd’s Algorithm)
+- Day 41 – Find Middle of Linked List
+- Day 42 – Detect Loop in Linked List
 - Day 43 – Remove Loop from Linked List
 - Day 44 – Merge Two Sorted Linked Lists
 - Day 45 – Palindrome Linked List
 
 ### 🔹 Stack & Queue
-
 - Day 46 – Stack Implementation
 - Day 47 – Queue Implementation
-- Day 48 – Valid Parentheses (Stack)
-- Day 49 – Next Greater Element (Stack)
+- Day 48 – Valid Parentheses
+- Day 49 – Next Greater Element
 - Day 50 – Stack using Queue
 - Day 51 – Queue using Stack
-- Day 52 – Reverse Stack (Recursion)
+- Day 52 – Reverse Stack
 - Day 53 – Min Stack
 - Day 54 – Circular Queue
-- Day 55 – Sliding Window Maximum (Deque)
+- Day 55 – Sliding Window Maximum
 
-### 🔹 Hashing
-
+### 🔹 Hashing & Patterns
 - Day 56 – Frequency Count
 - Day 57 – First Repeating Element
 - Day 58 – Subarray with Zero Sum
 - Day 59 – Longest Subarray with Sum K
-- Day 60 – Pair with Given Sum (Two Sum)
+- Day 60 – Pair with Given Sum
 - Day 61 – Intersection of Two Arrays
 - Day 62 – Union of Two Arrays
 - Day 63 – Count Distinct Elements
@@ -132,7 +128,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Day 67 – Three Sum
 - Day 68 – Trapping Rain Water
 - Day 69 – Container With Most Water
-- Day 70 – Longest Substring Without Repeating Characters (Optimized)
+- Day 70 – Longest Substring Without Repeating Characters
 
 ### 🔹 Trees
 - Day 71 – Binary Tree Basics
@@ -187,12 +183,13 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 ----
 
 ## 🛠 Tech Stack
+
 - Python
 - Git & GitHub
 
 ----
 
-## 🚀 Why This Repository?
+## 🌟 Final Thoughts
 
 Completing this challenge helped me strengthen my problem-solving ability, consistency, and confidence in Data Structures & Algorithms.
 
@@ -200,4 +197,6 @@ This journey was not just about solving problems — it was about building disci
 
 🚀 Next Goal: LeetCode Mediums + Interview Preparation
 
+----
 
+⭐ If you found this repository helpful, feel free to star it.
