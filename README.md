@@ -187,7 +187,7 @@ This repository contains my daily practice of **Data Structures and Algorithms**
 - Python
 - Git & GitHub
 
-----
+-----
 
 ## 🌟 Final Thoughts
 
